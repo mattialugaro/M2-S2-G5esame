@@ -1,0 +1,63 @@
+.dropdown-toggle::after {
+    color: white;
+}
+
+.fs8 {
+    font-size: 12px;
+}
+
+button.btn.btn-black.text-light.border.border-white.rounded-0.dropdown-toggle {
+    padding: 0 10px;
+}
+
+div.border {
+    height: 34px;
+}
+
+div.col-lg-2{
+    padding: 0 2px;
+}
+
+.div.row {
+    box-sizing: content-box;
+}
+
+.fs10 {
+    font-size: 8px;
+}
+
+.mt10 {
+    margin-top: 80px;
+}
+
+.fs-title {
+    font-size: 50px;
+}
+
+button.btn.btn-black.text-light.border.border-white.rounded-0.dropdown-toggle {
+    padding-inline: 12px;
+}
+
+button.btn.btn-black.text-light.border.border-white.rounded-0.dropdown-toggle.dropdown-toggle::after {
+    margin-left: 26px;
+}
+
+.fs-p {
+    font-size: 14px;
+}
+
+.fs-but {
+    font-size: 22px;
+}
+
+.light-g {
+    background-color: rgb(235, 235, 235);
+}
+
+.light-g-c {
+    color: rgb(185, 185, 185);
+}
+
+.dark-g {
+    background-color: rgb(70, 70, 70);
+}
