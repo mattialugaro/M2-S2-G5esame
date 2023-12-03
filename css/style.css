@@ -61,3 +61,7 @@ button.btn.btn-black.text-light.border.border-white.rounded-0.dropdown-toggle.dr
 .dark-g {
     background-color: rgb(70, 70, 70);
 }
+
+.p10 {
+    padding: 0 2px;
+}
